@@ -44,8 +44,10 @@ I bridge high-level system architecture and hands-on AI engineering. As the crea
 Systems are built around an immutable, human-designed <strong>Skeleton</strong> (data SSOT, auth context, event bus) powering isolated, AI-generated <strong>Disposable Modules</strong> that can be regenerated on demand rather than manually refactored.
 </p>
 
-<pre align="center">
-┌────────────────────────────────────────────────────────┐
+<table align="center">
+<tr>
+<td>
+<pre>┌────────────────────────────────────────────────────────┐
 │                   HUMAN ARCHITECT                      │
 │        Invariants │ Data Schemas │ System SSOT         │
 └───────────────────────────┬────────────────────────────┘
@@ -58,8 +60,10 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
                 │                        │
                 ▼                        ▼
       [ Disposable Module A ]  [ Disposable Module B ]
-         100% AI Generated        100% AI Generated
-</pre>
+         100% AI Generated        100% AI Generated</pre>
+</td>
+</tr>
+</table>
 
 ---
 
