@@ -3,7 +3,7 @@
 # Алексей Пацкевич (AVPDev)
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Zero+Vibe+Coding+Advocate;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Systems+Engineer+%26+Builder;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -13,13 +13,22 @@
 <br />
 
 [![Website](https://img.shields.io/badge/Website-avpdev.com-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avp-dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVP_Dev)
 [![Блог](https://img.shields.io/badge/Блог-Статьи-18181B?style=for-the-badge&logo=hashnode&logoColor=white)](https://avpdev.com/ru/blog/)
 
 <br />
 
 <p align="center">
-  <em>Проектирование устойчивых мультиагентных систем, высоконагруженных векторных RAG-пайплайнов и детерминированной архитектуры разработки с ИИ.</em>
+  <em>AI Solutions Architect & Systems Engineer: проектирование устойчивых мультиагентных систем, высоконагруженных векторных RAG-пайплайнов и детерминированной архитектуры разработки с ИИ.</em>
+</p>
+
+---
+
+## 🎯 Обо мне и инженерном подходе
+
+<p align="center">
+Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Мой фокус — превращение экспериментального «вайб-кодинга» в дисциплинированную, предсказуемую разработку enterprise-уровня. За счет четких системных инвариантов, контрактов данных и автоматических гейтов верификации я создаю устойчивые, расширяемые и надежные AI-native продукты.
 </p>
 
 ---
@@ -31,7 +40,7 @@
 </p>
 
 <p align="center">
-Я проектирую и создаю production-grade AI-системы, устраняя хаос вайб-кодинга за счет жестких архитектурных границ, автоматических гейтов верификации и заменяемых модулей (Disposable Modules).
+Система строится вокруг неизменяемого человеческого каркаса (Skeleton: схема данных, контекст сессий, шина событий), управляющего изолированными сменными модулями (Disposable Modules), генерируемыми ИИ под строгим контролем тестов.
 </p>
 
 <pre align="center">
@@ -107,21 +116,11 @@
 
 ---
 
-## 📖 Статьи и публикации
+## ✍️ Инженерный блог и мысли
 
 <p align="center">
-  Архитектурные статьи и исследования в блоге:<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/ru/blog</a></strong>
-</p>
-
-<p align="center">
-  📝 <strong><a href="https://avpdev.com/ru/blog/control-ideas-not-code/">Управляй идеями, а не кодом / Control Ideas, Not Code</a></strong><br />
-  <em>Часть 1 трилогии об AI-инжиниринге: переход от кодинга на уровне синтаксиса к системному контролю архитектурных инвариантов.</em>
-</p>
-
-<p align="center">
-  <em>Часть 2: Automated Verification Gates и границы сбоев (Скоро)</em><br />
-  <em>Часть 3: Архитектура «Skeleton + Disposable Modules»: от теории к продакшену (Скоро)</em>
+  Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
+  👉 <strong><a href="https://avpdev.com/ru/blog/">Все технические статьи и исследования в блоге avpdev.com &rarr;</a></strong>
 </p>
 
 ---

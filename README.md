@@ -3,7 +3,7 @@
 # Aliaksei Patskevich (AVPDev)
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Zero+Vibe+Coding+Advocate;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Systems+Engineer+%26+Builder;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <em>Designing resilient multi-agent orchestration, high-load vector RAG pipelines, and deterministic AI engineering architectures.</em>
+  <em>AI Solutions Architect & Systems Engineer focusing on deterministic agent orchestration, high-load vector RAG pipelines, and disciplined software architecture.</em>
 </p>
 
 <!-- ======================================================================= -->
@@ -27,6 +27,12 @@
 <br />
 <div align="center">
 
+### 👋 Обо мне и подходе к разработке
+
+<p align="center">
+Я занимаюсь проектированием и внедрением AI-решений нового поколения. Мой фокус — превращение хаотичного вайб-кодинга в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
+</p>
+
 ## 🧠 Инженерная философия: Zero Vibe Coding
 
 <p align="center">
@@ -34,7 +40,7 @@
 </p>
 
 <p align="center">
-Я проектирую и создаю production-grade AI-системы, устраняя хаос вайб-кодинга за счет жестких архитектурных границ, автоматических гейтов верификации и заменяемых модулей (Disposable Modules).
+Архитектура строится на принципе нерушимого ядра (Skeleton), проектируемого человеком, и заменяемых изолированных модулей (Disposable Modules), генерируемых ИИ. Код не считается завершенным без жестких автоматических гейтов верификации.
 </p>
 
 <pre align="center">
@@ -63,10 +69,25 @@
 | **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
 | **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
 
+### ✍️ Инженерный блог и мысли
+
+<p align="center">
+  Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
+  👉 <strong><a href="https://avpdev.com/ru/blog/">Все публикации и статьи в блоге avpdev.com &rarr;</a></strong>
+</p>
+
 ---
 
 </div>
 </details>
+
+---
+
+## 🎯 About & Engineering Focus
+
+<p align="center">
+I bridge high-level system architecture and hands-on AI engineering. My mission is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+</p>
 
 ---
 
@@ -77,7 +98,7 @@
 </p>
 
 <p align="center">
-I build production-grade AI systems, eliminating development chaos through strict architectural boundaries, automated verification gates, and disposable AI-generated modules.
+Systems are built around an immutable, human-designed <strong>Skeleton</strong> (data SSOT, auth context, event bus) powering isolated, AI-generated <strong>Disposable Modules</strong> that can be regenerated on demand rather than manually refactored.
 </p>
 
 <pre align="center">
@@ -153,21 +174,11 @@ I build production-grade AI systems, eliminating development chaos through stric
 
 ---
 
-## 📖 Writing & Publications
+## ✍️ Engineering Thought & Blog
 
 <p align="center">
-  Explore my latest deep-dive architectural essays in the blog:<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/ru/blog</a></strong>
-</p>
-
-<p align="center">
-  📝 <strong><a href="https://avpdev.com/ru/blog/control-ideas-not-code/">Control Ideas, Not Code / Управляй идеями, а не кодом</a></strong><br />
-  <em>Part 1 of the AI engineering trilogy: shifting from syntax-level coding to architectural invariants and intent management.</em>
-</p>
-
-<p align="center">
-  <em>Part 2: Automated Verification Gates & Failure Modes (Coming soon)</em><br />
-  <em>Part 3: The Skeleton + Disposable Modules Architecture: From Theory to Production (Coming soon)</em>
+  I write about deterministic AI architectures, multi-agent systems, and moving beyond raw code generation into systems thinking.<br />
+  👉 <strong><a href="https://avpdev.com/ru/blog/">Read technical essays & architecture deep-dives on avpdev.com &rarr;</a></strong>
 </p>
 
 ---
