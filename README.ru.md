@@ -3,7 +3,7 @@
 # Алексей Пацкевич (AVPDev)
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Systems+Engineer+%26+Builder;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -12,7 +12,8 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-avpdev.com-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
+[![Pravia](https://img.shields.io/badge/Pravia-AI--Сотрудник%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white)](https://pravia.dev)
+[![Website](https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avp-dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVP_Dev)
 [![Блог](https://img.shields.io/badge/Блог-Статьи-18181B?style=for-the-badge&logo=hashnode&logoColor=white)](https://avpdev.com/ru/blog/)
@@ -28,7 +29,7 @@
 ## 🎯 Обо мне и инженерном подходе
 
 <p align="center">
-Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Мой фокус — превращение экспериментального «вайб-кодинга» в дисциплинированную, предсказуемую разработку enterprise-уровня. За счет четких системных инвариантов, контрактов данных и автоматических гейтов верификации я создаю устойчивые, расширяемые и надежные AI-native продукты.
+Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях) и автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
 </p>
 
 ---
@@ -73,10 +74,19 @@
 
 ---
 
-## 🚀 Ключевые проекты
+## 🚀 Ключевые проекты и продукты
 
 <table align="center">
   <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏢 <a href="https://pravia.dev">Pravia (pravia.dev)</a></h3>
+      <p>Production B2B SaaS-платформа AI-сотрудников на базе корпоративного RAG. Моментальные консультации клиентов, квалификация лидов и передача данных в CRM/Telegram.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SaaS-Production-FF8C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Enterprise-RAG-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/100%2B-Языков-green?style=flat-square" />
+      </p>
+    </td>
     <td width="50%" align="center" valign="top">
       <h3>📦 <a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></h3>
       <p>Инженерный стандарт разработки с ИИ: архитектура Skeleton + Pluggable Modules, Automated Verification Gates и протокол автоматического онбординга для Antigravity, Claude Code и Copilot.</p>
@@ -85,6 +95,8 @@
         <img src="https://img.shields.io/badge/Verification-Gates-green?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">nyx-vox</a></h3>
       <p>Минималистичный нативный инструмент voice-to-text для macOS на Rust. Запись речи, транскрибация через офлайн/облачные ИИ-модели и моментальная вставка в любое приложение.</p>
@@ -93,22 +105,12 @@
         <img src="https://img.shields.io/badge/AI-Whisper-blue?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <h3>🌐 <a href="https://github.com/AVP-Dev/avpdev.com">avpdev.com</a></h3>
       <p>Высокопроизводительный личный сайт и технический блог на Astro 7, TypeScript и Bun. Гибридный SSR/SSG рендеринг, безопасность и Docker-first архитектура.</p>
       <p>
         <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
         <img src="https://img.shields.io/badge/TypeScript-Docker-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 <a href="https://github.com/AVP-Dev/telegram_gemini_bot">telegram_gemini_bot</a></h3>
-      <p>Мультимодальный Telegram-бот на базе Google Gemini AI. Обработка текста, голосовых сообщений, изображений высокого разрешения и документов в реальном времени.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Gemini%20AI-Multimodal-8E75C2?style=flat-square" />
       </p>
     </td>
   </tr>
