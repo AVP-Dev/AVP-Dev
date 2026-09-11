@@ -59,9 +59,8 @@
 |:---:|:---:|
 | **ИИ, RAG и Агенты** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
 | **Бэкенд и распределенные системы** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
-| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 5, Tailwind CSS |
-| **Системная разработка** | Rust (нативные утилиты и синтез речи), Linux (Bash, Nginx), macOS |
-| **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD) |
+| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
+| **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
 
 ---
 
@@ -89,9 +88,9 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🌐 <a href="https://github.com/AVP-Dev/avpdev.com">avpdev.com</a></h3>
-      <p>Высокопроизводительный личный сайт и технический блог на Astro 5, TypeScript и Bun. Гибридный SSR/SSG рендеринг, безопасность и Docker-first архитектура.</p>
+      <p>Высокопроизводительный личный сайт и технический блог на Astro 7, TypeScript и Bun. Гибридный SSR/SSG рендеринг, безопасность и Docker-first архитектура.</p>
       <p>
-        <img src="https://img.shields.io/badge/Astro%205-Bun-orange?style=flat-square&logo=astro" />
+        <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
         <img src="https://img.shields.io/badge/TypeScript-Docker-blue?style=flat-square" />
       </p>
     </td>

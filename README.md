@@ -60,7 +60,7 @@
 |:---:|:---:|
 | **ИИ, RAG и Агенты** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
 | **Бэкенд и распределенные системы** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
-| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 5, Tailwind CSS |
+| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
 | **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
 
 ---
@@ -105,7 +105,7 @@ I build production-grade AI systems, eliminating development chaos through stric
 |:---:|:---:|
 | **AI, RAG & Agents** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
 | **Backend & Distributed** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
-| **Frontend Systems** | Next.js (App Router), React, TypeScript 5.8+, Astro 5, Tailwind CSS |
+| **Frontend Systems** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
 | **DevOps & Infrastructure** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
 
 ---
@@ -134,9 +134,9 @@ I build production-grade AI systems, eliminating development chaos through stric
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🌐 <a href="https://github.com/AVP-Dev/avpdev.com">avpdev.com</a></h3>
-      <p>High-performance personal website and engineering blog built on Astro 5, TypeScript, and Bun. Features hybrid SSR/SSG, strict security, and Docker-first architecture.</p>
+      <p>High-performance personal website and engineering blog built on Astro 7, TypeScript, and Bun. Features hybrid SSR/SSG, strict security, and Docker-first architecture.</p>
       <p>
-        <img src="https://img.shields.io/badge/Astro%205-Bun-orange?style=flat-square&logo=astro" />
+        <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
         <img src="https://img.shields.io/badge/TypeScript-Docker-blue?style=flat-square" />
       </p>
     </td>
