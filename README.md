@@ -18,7 +18,7 @@
   <a href="https://avpdev.com/"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/avp-dev"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/AVP_Dev"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://avpdev.com/ru/blog/"><img src="https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://avpdev.com/en/blog/"><img src="https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <h2 align="center">🎯 About & Engineering Focus</h2>
 
 <p align="center">
-I bridge high-level system architecture, hands-on AI engineering, and low-level systems programming. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), creator of <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (zero-latency Rust & Tauri voice interface), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+I bridge high-level system architecture, hands-on AI engineering, and low-level systems programming. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), creator of <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (zero-latency Rust & Tauri voice interface), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/en/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
 </p>
 
 ---
@@ -152,7 +152,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 
 <p align="center">
   I write about deterministic AI architectures, multi-agent systems, and moving beyond raw code generation into systems thinking.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">Read technical essays & architecture deep-dives on avpdev.com &rarr;</a></strong>
+  👉 <strong><a href="https://avpdev.com/en/blog/">Read technical essays & architecture deep-dives on avpdev.com &rarr;</a></strong>
 </p>
 
 ---
