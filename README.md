@@ -157,12 +157,22 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
   <em>Run in your terminal for real-time telemetry, ANSI graphics, and instant collaboration info:</em>
 </p>
 
-```bash
-# 🖥️ Launch interactive ANSI cyber-terminal
-curl https://avpdev.com/api/connect
+<p align="center"><strong>🖥️ ANSI Cyber-Terminal Banner & Telemetry:</strong></p>
 
-# 🟢 Check real-time architect availability
-curl -s https://avpdev.com/api/connect?raw=status
+```bash
+curl -s "https://avpdev.com/api/connect?banner=1"
+```
+
+<p align="center"><strong>🟢 Live Architect Availability Status:</strong></p>
+
+```bash
+curl -s "https://avpdev.com/api/connect?raw=status"
+```
+
+<p align="center"><strong>🤝 Initiate Engineering Collaboration:</strong></p>
+
+```bash
+curl -s "https://avpdev.com/api/connect?action=hire"
 ```
 
 ---

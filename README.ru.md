@@ -157,12 +157,22 @@
   <em>Запустите в вашем терминале для получения живой телеметрии, цветного ANSI-баннера и статуса:</em>
 </p>
 
-```bash
-# 🖥️ Интерактивный кибер-терминал в ANSI-цветах
-curl https://avpdev.com/api/connect
+<p align="center"><strong>🖥️ Интерактивный кибер-терминал и ANSI-телеметрия:</strong></p>
 
-# 🟢 Статус доступности архитектора в реальном времени
-curl -s https://avpdev.com/api/connect?raw=status
+```bash
+curl -s "https://avpdev.com/api/connect?banner=1"
+```
+
+<p align="center"><strong>🟢 Статус доступности архитектора в реальном времени:</strong></p>
+
+```bash
+curl -s "https://avpdev.com/api/connect?raw=status"
+```
+
+<p align="center"><strong>🤝 Прямой канал связи и сотрудничество:</strong></p>
+
+```bash
+curl -s "https://avpdev.com/api/connect?action=hire"
 ```
 
 ---
