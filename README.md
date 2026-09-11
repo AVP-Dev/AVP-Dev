@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aliaksei Patskevich (AVPDev)
+<h1 align="center">Aliaksei Patskevich (AVPDev)</h1>
 
 <a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
@@ -8,83 +8,25 @@
 
 <br /><br />
 
-<a href="https://pravia.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
-<a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-<a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+<p align="center">
+  <strong>English</strong> &bull; <a href="./README.ru.md">Русская версия</a>
+</p>
 
-<br /><br />
+<p align="center">
+  <a href="https://pravia.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+  <a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+</p>
 
 <p align="center">
   <em>AI Solutions Architect & Systems Engineer focusing on deterministic agent orchestration, high-load vector RAG pipelines, and disciplined software architecture.</em>
 </p>
 
-<!-- ======================================================================= -->
-<!-- RUSSIAN VERSION SPOILER (READ DIRECTLY ON THE HOMEPAGE)                 -->
-<!-- ======================================================================= -->
-<details>
-<summary><b>🇷🇺 Читать профиль на русском языке (нажмите, чтобы развернуть)</b></summary>
-<br />
-<div align="center">
-
-### 👋 Обо мне и подходе к разработке
-
-<p align="center">
-Я занимаюсь проектированием и внедрением AI-решений нового поколения. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
-</p>
-
-## 🧠 Инженерная философия: Zero Vibe Coding
-
-<p align="center">
-  <strong><em>«Управлять идеями и системными инвариантами, а не нянчиться с синтаксисом кода».</em></strong>
-</p>
-
-<p align="center">
-Архитектура строится на принципе нерушимого ядра (Skeleton), проектируемого человеком, и заменяемых изолированных модулей (Disposable Modules), генерируемых ИИ. Код не считается завершенным без жестких автоматических гейтов верификации.
-</p>
-
-<pre align="center">
-┌────────────────────────────────────────────────────────┐
-│                  АРХИТЕКТОР (ЧЕЛОВЕК)                  │
-│       Инварианты │ Схемы данных │ Единый SSOT          │
-└───────────────────────────┬────────────────────────────┘
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│                   КАРКАС (SKELETON)                    │
-│   Auth Context │ Event Bus │ pgvector / HNSW │ Очереди │
-└───────────────┬────────────────────────┬───────────────┘
-                │                        │
-                ▼                        ▼
-     [ Сменный модуль A ]      [ Сменный модуль B ]
-       100% сгенерирован         100% сгенерирован
-</pre>
-
-### 🛠️ Стек технологий и компетенции
-
-| Область | Инструменты и технологии |
-|:---:|:---:|
-| **ИИ, RAG и Агенты** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
-| **Бэкенд и распределенные системы** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
-| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
-| **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
-
-### ✍️ Инженерный блог и мысли
-
-<p align="center">
-  Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">Все публикации и статьи в блоге avpdev.com &rarr;</a></strong>
-</p>
-
 ---
 
-</div>
-</details>
-
----
-
-## 🎯 About & Engineering Focus
+<h2 align="center">🎯 About & Engineering Focus</h2>
 
 <p align="center">
 I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia</a></strong> (enterprise AI-employee platform), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
@@ -92,7 +34,7 @@ I bridge high-level system architecture and hands-on AI engineering. As the crea
 
 ---
 
-## 🧠 Philosophy: Zero Vibe Coding
+<h2 align="center">🧠 Philosophy: Zero Vibe Coding</h2>
 
 <p align="center">
   <strong><em>«Controlling ideas and system invariants, not babysitting syntax.»</em></strong>
@@ -121,18 +63,38 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 
 ---
 
-## 🛠️ Technology Stack & Core Competencies
+<h2 align="center">🛠️ Technology Stack & Core Competencies</h2>
 
-| Domain | Production Tools & Technologies |
-|:---:|:---:|
-| **AI, RAG & Agents** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
-| **Backend & Distributed** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
-| **Frontend Systems** | Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS |
-| **DevOps & Infrastructure** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Domain</th>
+      <th align="center">Production Tools & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>AI, RAG & Agents</strong></td>
+      <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Backend & Distributed</strong></td>
+      <td>Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frontend Systems</strong></td>
+      <td>Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>DevOps & Infrastructure</strong></td>
+      <td>Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🚀 Featured Engineering Projects & Products
+<h2 align="center">🚀 Featured Engineering Projects & Products</h2>
 
 <table align="center">
   <tr>
@@ -176,7 +138,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 
 ---
 
-## ✍️ Engineering Thought & Blog
+<h2 align="center">✍️ Engineering Thought & Blog</h2>
 
 <p align="center">
   I write about deterministic AI architectures, multi-agent systems, and moving beyond raw code generation into systems thinking.<br />
@@ -185,7 +147,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 
 ---
 
-## ⚡ Live Terminal API
+<h2 align="center">⚡ Live Terminal API</h2>
 
 <p align="center">
   <em>Run in your terminal for real-time telemetry, ANSI graphics, and instant collaboration info:</em>
@@ -201,7 +163,7 @@ curl -s https://avpdev.com/api/connect?raw=status
 
 ---
 
-<p>
+<p align="center">
   <a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
   <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer">TELEGRAM</a></small>
 </p>
