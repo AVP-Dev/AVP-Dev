@@ -172,28 +172,6 @@ I build production-grade AI systems, eliminating development chaos through stric
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AVP-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C0BDBF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVP-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C0BDBF" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVP-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" height="150" />
-</p>
-
-<br />
-
-```bash
-curl -s https://avpdev.com/api/connect | jq '.status'
-# "Ready for high-impact AI architecture and deep-tech collaborations."
-```
-
-<br />
-
----
-
 <p>
   <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
   <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
