@@ -126,6 +126,22 @@
 
 ---
 
+## ⚡ Живой интерактивный CLI-терминал
+
+<p align="center">
+  <em>Запустите в вашем терминале для получения живой телеметрии, цветного ANSI-баннера и статуса:</em>
+</p>
+
+```bash
+# 🖥️ Интерактивный кибер-терминал в ANSI-цветах
+curl https://avpdev.com/api/connect
+
+# 🟢 Статус доступности архитектора в реальном времени
+curl -s https://avpdev.com/api/connect?raw=status
+```
+
+---
+
 <p>
   <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
   <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>

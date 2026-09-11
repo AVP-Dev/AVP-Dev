@@ -172,6 +172,22 @@ I build production-grade AI systems, eliminating development chaos through stric
 
 ---
 
+## ⚡ Live Terminal API
+
+<p align="center">
+  <em>Run in your terminal for real-time telemetry, ANSI graphics, and instant collaboration info:</em>
+</p>
+
+```bash
+# 🖥️ Launch interactive ANSI cyber-terminal
+curl https://avpdev.com/api/connect
+
+# 🟢 Check real-time architect availability
+curl -s https://avpdev.com/api/connect?raw=status
+```
+
+---
+
 <p>
   <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
   <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
