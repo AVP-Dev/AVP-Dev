@@ -8,11 +8,8 @@
 
 <br /><br />
 
-**English** &bull; [**Русская версия (README.ru.md)**](https://github.com/AVP-Dev/AVP-Dev/blob/main/README.ru.md)
-
-<br />
-
 [![Website](https://img.shields.io/badge/Website-avpdev.com-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avp-dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVP_Dev)
 [![Blog](https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white)](https://avpdev.com/ru/blog/)
 
@@ -21,6 +18,55 @@
 <p align="center">
   <em>Designing resilient multi-agent orchestration, high-load vector RAG pipelines, and deterministic AI engineering architectures.</em>
 </p>
+
+<!-- ======================================================================= -->
+<!-- RUSSIAN VERSION SPOILER (READ DIRECTLY ON THE HOMEPAGE)                 -->
+<!-- ======================================================================= -->
+<details>
+<summary><b>🇷🇺 Читать профиль на русском языке (нажмите, чтобы развернуть)</b></summary>
+<br />
+<div align="center">
+
+## 🧠 Инженерная философия: Zero Vibe Coding
+
+<p align="center">
+  <strong><em>«Управлять идеями и системными инвариантами, а не нянчиться с синтаксисом кода».</em></strong>
+</p>
+
+<p align="center">
+Я проектирую и создаю production-grade AI-системы, устраняя хаос вайб-кодинга за счет жестких архитектурных границ, автоматических гейтов верификации и заменяемых модулей (Disposable Modules).
+</p>
+
+<pre align="center">
+┌────────────────────────────────────────────────────────┐
+│                  АРХИТЕКТОР (ЧЕЛОВЕК)                  │
+│       Инварианты │ Схемы данных │ Единый SSOT          │
+└───────────────────────────┬────────────────────────────┘
+                            │
+                            ▼
+┌────────────────────────────────────────────────────────┐
+│                   КАРКАС (SKELETON)                    │
+│   Auth Context │ Event Bus │ pgvector / HNSW │ Очереди │
+└───────────────┬────────────────────────┬───────────────┘
+                │                        │
+                ▼                        ▼
+     [ Сменный модуль A ]      [ Сменный модуль B ]
+       100% сгенерирован         100% сгенерирован
+</pre>
+
+### 🛠️ Стек технологий и компетенции
+
+| Область | Инструменты и технологии |
+|:---:|:---:|
+| **ИИ, RAG и Агенты** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
+| **Бэкенд и распределенные системы** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
+| **Фронтенд-системы** | Next.js (App Router), React, TypeScript 5.8+, Astro 5, Tailwind CSS |
+| **DevOps и PaaS** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
+
+---
+
+</div>
+</details>
 
 ---
 
@@ -60,8 +106,7 @@ I build production-grade AI systems, eliminating development chaos through stric
 | **AI, RAG & Agents** | Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling |
 | **Backend & Distributed** | Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM |
 | **Frontend Systems** | Next.js (App Router), React, TypeScript 5.8+, Astro 5, Tailwind CSS |
-| **Systems & Native** | Rust (Native tooling & voice synthesis), Linux (Bash, Nginx), macOS |
-| **DevOps & Infrastructure** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD) |
+| **DevOps & Infrastructure** | Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx) |
 
 ---
 
@@ -151,7 +196,7 @@ curl -s https://avpdev.com/api/connect | jq '.status'
 
 <p>
   <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
-  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://github.com/AVP-Dev">GITHUB</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
+  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
 </p>
 
 </div>
