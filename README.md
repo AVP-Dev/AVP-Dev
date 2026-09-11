@@ -31,7 +31,7 @@
 ### 👋 Обо мне и подходе к разработке
 
 <p align="center">
-Я занимаюсь проектированием и внедрением AI-решений нового поколения. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях) и автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
+Я занимаюсь проектированием и внедрением AI-решений нового поколения. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
 </p>
 
 ## 🧠 Инженерная философия: Zero Vibe Coding
@@ -87,7 +87,7 @@
 ## 🎯 About & Engineering Focus
 
 <p align="center">
-I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform) and author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
 </p>
 
 ---

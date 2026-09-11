@@ -29,7 +29,7 @@
 ## 🎯 Обо мне и инженерном подходе
 
 <p align="center">
-Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях) и автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
+Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
 </p>
 
 ---
