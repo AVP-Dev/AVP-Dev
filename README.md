@@ -2,19 +2,19 @@
 
 # Aliaksei Patskevich (AVPDev)
 
-<a href="https://avpdev.com/">
+<a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
-[![Pravia](https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white)](https://pravia.dev)
-[![Website](https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avp-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVP_Dev)
-[![Blog](https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white)](https://avpdev.com/ru/blog/)
+<a href="https://pravia.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+<a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-Articles-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
 
-<br />
+<br /><br />
 
 <p align="center">
   <em>AI Solutions Architect & Systems Engineer focusing on deterministic agent orchestration, high-load vector RAG pipelines, and disciplined software architecture.</em>
@@ -31,7 +31,7 @@
 ### 👋 Обо мне и подходе к разработке
 
 <p align="center">
-Я занимаюсь проектированием и внедрением AI-решений нового поколения. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
+Я занимаюсь проектированием и внедрением AI-решений нового поколения. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку. Сочетаю архитектурное системное мышление с глубоким практическим погружением в код: от мультиагентных оркестраторов и векторного RAG-поиска до распределенных бэкендов и self-hosted инфраструктуры.
 </p>
 
 ## 🧠 Инженерная философия: Zero Vibe Coding
@@ -74,7 +74,7 @@
 
 <p align="center">
   Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">Все публикации и статьи в блоге avpdev.com &rarr;</a></strong>
+  👉 <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">Все публикации и статьи в блоге avpdev.com &rarr;</a></strong>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🎯 About & Engineering Focus
 
 <p align="center">
-I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia</a></strong> (enterprise AI-employee platform), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
 </p>
 
 ---
@@ -137,7 +137,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🏢 <a href="https://pravia.dev">Pravia (pravia.dev)</a></h3>
+      <h3>🏢 <a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia (pravia.dev)</a></h3>
       <p>Production B2B AI-employee platform powered by enterprise knowledge base RAG. Instant customer support, lead qualification, and CRM/Telegram pipeline integrations.</p>
       <p>
         <img src="https://img.shields.io/badge/SaaS-Production-FF8C00?style=flat-square" />
@@ -164,7 +164,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🌐 <a href="https://github.com/AVP-Dev/avpdev.com">avpdev.com</a></h3>
+      <h3>🌐 <a href="https://avpdev.com" target="_blank" rel="noopener noreferrer">avpdev.com</a></h3>
       <p>High-performance personal website and engineering blog built on Astro 7, TypeScript, and Bun. Features hybrid SSR/SSG, strict security, and Docker-first architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
@@ -180,7 +180,7 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
 
 <p align="center">
   I write about deterministic AI architectures, multi-agent systems, and moving beyond raw code generation into systems thinking.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">Read technical essays & architecture deep-dives on avpdev.com &rarr;</a></strong>
+  👉 <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">Read technical essays & architecture deep-dives on avpdev.com &rarr;</a></strong>
 </p>
 
 ---
@@ -202,8 +202,8 @@ curl -s https://avpdev.com/api/connect?raw=status
 ---
 
 <p>
-  <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
-  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
+  <a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
+  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer">TELEGRAM</a></small>
 </p>
 
 </div>

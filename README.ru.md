@@ -2,7 +2,7 @@
 
 # Алексей Пацкевич (AVPDev)
 
-<a href="https://avpdev.com/">
+<a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
@@ -12,13 +12,13 @@
 
 <br />
 
-[![Pravia](https://img.shields.io/badge/Pravia-AI--Сотрудник%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white)](https://pravia.dev)
-[![Website](https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avpdev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avp-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVP_Dev)
-[![Блог](https://img.shields.io/badge/Блог-Статьи-18181B?style=for-the-badge&logo=hashnode&logoColor=white)](https://avpdev.com/ru/blog/)
+<a href="https://pravia.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pravia-AI--Сотрудник%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+<a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Блог-Статьи-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Блог" /></a>
 
-<br />
+<br /><br />
 
 <p align="center">
   <em>AI Solutions Architect & Systems Engineer: проектирование устойчивых мультиагентных систем, высоконагруженных векторных RAG-пайплайнов и детерминированной архитектуры разработки с ИИ.</em>
@@ -29,7 +29,7 @@
 ## 🎯 Обо мне и инженерном подходе
 
 <p align="center">
-Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
+Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
 </p>
 
 ---
@@ -79,7 +79,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🏢 <a href="https://pravia.dev">Pravia (pravia.dev)</a></h3>
+      <h3>🏢 <a href="https://pravia.dev" target="_blank" rel="noopener noreferrer">Pravia (pravia.dev)</a></h3>
       <p>Production B2B SaaS-платформа AI-сотрудников на базе корпоративного RAG. Моментальные консультации клиентов, квалификация лидов и передача данных в CRM/Telegram.</p>
       <p>
         <img src="https://img.shields.io/badge/SaaS-Production-FF8C00?style=flat-square" />
@@ -106,7 +106,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🌐 <a href="https://github.com/AVP-Dev/avpdev.com">avpdev.com</a></h3>
+      <h3>🌐 <a href="https://avpdev.com" target="_blank" rel="noopener noreferrer">avpdev.com</a></h3>
       <p>Высокопроизводительный личный сайт и технический блог на Astro 7, TypeScript и Bun. Гибридный SSR/SSG рендеринг, безопасность и Docker-first архитектура.</p>
       <p>
         <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
@@ -122,7 +122,7 @@
 
 <p align="center">
   Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">Все технические статьи и исследования в блоге avpdev.com &rarr;</a></strong>
+  👉 <strong><a href="https://avpdev.com/ru/blog/" target="_blank" rel="noopener noreferrer">Все технические статьи и исследования в блоге avpdev.com &rarr;</a></strong>
 </p>
 
 ---
@@ -144,8 +144,8 @@ curl -s https://avpdev.com/api/connect?raw=status
 ---
 
 <p>
-  <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
-  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
+  <a href="https://avpdev.com/" target="_blank" rel="noopener noreferrer"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
+  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev" target="_blank" rel="noopener noreferrer">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev" target="_blank" rel="noopener noreferrer">TELEGRAM</a></small>
 </p>
 
 </div>
