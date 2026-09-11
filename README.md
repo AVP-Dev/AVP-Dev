@@ -3,7 +3,7 @@
 <h1 align="center">Aliaksei Patskevich (AVPDev)</h1>
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Native+Voice+AI+%26+Rust+Systems;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://pravia.dev"><img src="https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+  <a href="https://github.com/AVP-Dev/nyx-vox"><img src="https://img.shields.io/badge/NYX%20Vox-Native%20Voice%20AI-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="NYX Vox" /></a>
   <a href="https://avpdev.com/"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/avp-dev"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/AVP_Dev"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -29,7 +30,7 @@
 <h2 align="center">🎯 About & Engineering Focus</h2>
 
 <p align="center">
-I bridge high-level system architecture and hands-on AI engineering. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+I bridge high-level system architecture, hands-on AI engineering, and low-level systems programming. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), creator of <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (zero-latency Rust & Tauri voice interface), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
 </p>
 
 ---
@@ -82,6 +83,10 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
       <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling</td>
     </tr>
     <tr>
+      <td align="center"><strong>Systems & Desktop</strong></td>
+      <td>Rust 2021, Tauri 2, cpal (Audio DSP), macOS & Windows APIs, Groq Whisper / Deepgram Nova-2 / Gemini STT</td>
+    </tr>
+    <tr>
       <td align="center"><strong>Backend & Distributed</strong></td>
       <td>Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM</td>
     </tr>
@@ -122,11 +127,12 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">nyx-vox</a></h3>
-      <p>Minimalist, blazing-fast voice-to-text tool for macOS built with Rust. Speak, transcribe with offline & cloud AI models, and auto-paste anywhere.</p>
+      <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></h3>
+      <p>Sub-500ms voice-to-text interface for macOS & Windows built with Rust & Tauri 2. Verbatim AI formatting, smart VAD, and instant auto-paste into any focused app.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-Native-DEA584?style=flat-square&logo=rust" />
-        <img src="https://img.shields.io/badge/AI-Whisper-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rust-Tauri%202-DEA584?style=flat-square&logo=rust" />
+        <img src="https://img.shields.io/badge/macOS%20%7C%20Windows-black?style=flat-square&logo=apple" />
+        <img src="https://img.shields.io/badge/STT-%3C500ms-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">

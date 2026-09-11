@@ -3,7 +3,7 @@
 <h1 align="center">Алексей Пацкевич (AVPDev)</h1>
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Native+Voice+AI+%26+Rust+Systems;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://pravia.dev"><img src="https://img.shields.io/badge/Pravia-AI--Сотрудник%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+  <a href="https://github.com/AVP-Dev/nyx-vox"><img src="https://img.shields.io/badge/NYX%20Vox-Native%20Voice%20AI-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="NYX Vox" /></a>
   <a href="https://avpdev.com/"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/avp-dev"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/AVP_Dev"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -29,7 +30,7 @@
 <h2 align="center">🎯 Обо мне и инженерном подходе</h2>
 
 <p align="center">
-Я соединяю архитектурное системное проектирование и практический AI-инжиниринг. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
+Я соединяю архитектурное системное проектирование, практический AI-инжиниринг и низкоуровневую системную разработку. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), создатель десктопного Voice AI интерфейса <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (нативный Rust и Tauri для macOS/Windows), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
 </p>
 
 ---
@@ -59,8 +60,8 @@
 └───────────────┬────────────────────────┬───────────────┘
                 │                        │
                 ▼                        ▼
-     [ Сменный модуль A ]      [ Сменный модуль B ]
-       100% сгенерирован         100% сгенерирован</pre>
+      [ Сменный модуль A ]      [ Сменный модуль B ]
+        100% сгенерирован         100% сгенерирован</pre>
 </td>
 </tr>
 </table>
@@ -80,6 +81,10 @@
     <tr>
       <td align="center"><strong>ИИ, RAG и Агенты</strong></td>
       <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Системная разработка и Desktop</strong></td>
+      <td>Rust 2021, Tauri 2, cpal (Audio DSP), нативные API macOS & Windows, Groq Whisper / Deepgram Nova-2 / Gemini STT</td>
     </tr>
     <tr>
       <td align="center"><strong>Бэкенд и распределенные системы</strong></td>
@@ -122,11 +127,12 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">nyx-vox</a></h3>
-      <p>Минималистичный нативный инструмент voice-to-text для macOS на Rust. Запись речи, транскрибация через офлайн/облачные ИИ-модели и моментальная вставка в любое приложение.</p>
+      <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></h3>
+      <p>Нативный voice-to-text интерфейс с задержкой &lt;500ms для macOS и Windows на Rust & Tauri 2. Точное AI-форматирование без галлюцинаций, умный VAD и моментальная вставка в активное приложение.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-Native-DEA584?style=flat-square&logo=rust" />
-        <img src="https://img.shields.io/badge/AI-Whisper-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rust-Tauri%202-DEA584?style=flat-square&logo=rust" />
+        <img src="https://img.shields.io/badge/macOS%20%7C%20Windows-black?style=flat-square&logo=apple" />
+        <img src="https://img.shields.io/badge/STT-%3C500ms-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
