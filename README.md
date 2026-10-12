@@ -3,7 +3,7 @@
 <h1 align="center">Aliaksei Patskevich (AVPDev)</h1>
 
 <a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Native+Voice+AI+%26+Rust+Systems;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Native+Voice+AI+%26+Rust+Systems;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines;Deterministic+Pair+Programming" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://pravia.dev"><img src="https://img.shields.io/badge/Pravia-AI--Employee%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
+  <a href="https://github.com/AVP-Dev/pair-mailbox"><img src="https://img.shields.io/badge/pair--mailbox-Autonomous%20AI%20Pair-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="pair-mailbox" /></a>
   <a href="https://github.com/AVP-Dev/nyx-vox"><img src="https://img.shields.io/badge/NYX%20Vox-Native%20Voice%20AI-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="NYX Vox" /></a>
   <a href="https://avpdev.com/"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/avp-dev"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,7 +23,7 @@
 </p>
 
 <p align="center">
-  <em>AI Solutions Architect & Systems Engineer focusing on deterministic agent orchestration, high-load vector RAG pipelines, and disciplined software architecture.</em>
+  <em>AI Solutions Architect & Systems Engineer focusing on deterministic agent orchestration, autonomous pair programming (MCP), high-load vector RAG pipelines, and disciplined software architecture.</em>
 </p>
 
 ---
@@ -30,7 +31,7 @@
 <h2 align="center">🎯 About & Engineering Focus</h2>
 
 <p align="center">
-I bridge high-level system architecture, hands-on AI engineering, and low-level systems programming. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), creator of <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (zero-latency Rust & Tauri voice interface), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/en/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
+I bridge high-level system architecture, hands-on AI engineering, and low-level systems programming. As the creator and architect of <strong><a href="https://pravia.dev">Pravia</a></strong> (enterprise AI-employee platform), creator and architect of <strong><a href="https://github.com/AVP-Dev/pair-mailbox">pair-mailbox</a></strong> (deterministic two-agent pair programming protocol over MCP), creator of <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (zero-latency Rust & Tauri voice interface), author of <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong>, and writer of technical essays at <strong><a href="https://avpdev.com/en/blog/">avpdev.com/blog</a></strong>, my focus is transforming experimental "vibe coding" into disciplined, enterprise-grade development. By defining strict system invariants, contract-first boundaries, and automated verification loops, I build AI-native systems that are resilient, maintainable, and deterministic.
 </p>
 
 ---
@@ -80,7 +81,11 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
   <tbody>
     <tr>
       <td align="center"><strong>AI, RAG & Agents</strong></td>
-      <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Agent Orchestration, Tool Calling</td>
+      <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Multi-Agent Orchestration, Model Context Protocol (MCP), Tool Calling</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Autonomous & Pair AI Engineering</strong></td>
+      <td>pair-mailbox (Zero-dependency Python 3.8+, tmux IPC, fcntl.flock), Single Writer Invariant, Cryptographically Sealed Patches, Verification Gates</td>
     </tr>
     <tr>
       <td align="center"><strong>Systems & Desktop</strong></td>
@@ -117,11 +122,12 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>📦 <a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></h3>
-      <p>Production-grade AI engineering standards, verification gates, and disposable module architecture for Antigravity, Claude Code, and Copilot/Codex.</p>
+      <h3>🤖 <a href="https://github.com/AVP-Dev/pair-mailbox">pair-mailbox</a></h3>
+      <p>Deterministic, autonomous two-agent pair programming across independent CLIs (Antigravity, Claude Code, OpenCode, Codex). Server-enforced single writer invariant, cryptographically sealed patches (SHA-256), tmux IPC, and zero external dependencies (pure Python 3 stdlib).</p>
       <p>
-        <img src="https://img.shields.io/badge/AI%20Engineering-Standards-FF8C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Verification-Gates-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Single_Writer_Invariant-FF8C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dependencies-Zero_External-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP-Protocol-8A2BE2?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -136,6 +142,16 @@ Systems are built around an immutable, human-designed <strong>Skeleton</strong> 
       </p>
     </td>
     <td width="50%" align="center" valign="top">
+      <h3>📦 <a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></h3>
+      <p>Production-grade AI engineering standards, verification gates, and disposable module architecture for Antigravity, Claude Code, and Copilot/Codex.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Engineering-Standards-FF8C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Verification-Gates-green?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" valign="top" colspan="2">
       <h3>🌐 <a href="https://avpdev.com">avpdev.com</a></h3>
       <p>High-performance personal website and engineering blog built on Astro 7, TypeScript, and Bun. Features hybrid SSR/SSG, strict security, and Docker-first architecture.</p>
       <p>
