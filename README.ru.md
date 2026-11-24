@@ -1,207 +1,77 @@
 <div align="center">
 
-<h1 align="center">Алексей Пацкевич (AVPDev)</h1>
+# Алексей Пацкевич · AVPdev
 
-<a href="https://avpdev.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;Creator+of+Pravia.dev;Native+Voice+AI+%26+Rust+Systems;Resilient+Multi-Agent+Orchestration;Production+RAG+%26+Vector+Pipelines;Deterministic+Pair+Programming" alt="Typing SVG" />
-</a>
+**Software Engineer · Solutions Architect**
 
-<br /><br />
+Full-Stack · Backend · Разработка продуктов · Интеграции и автоматизация
 
-<p align="center">
-  <a href="./README.md">English Version</a> &bull; <strong>Русская версия</strong>
-</p>
+[Сайт](https://avpdev.com/ru/) · [Блог](https://avpdev.com/ru/blog/) · [LinkedIn](https://linkedin.com/in/avp-dev) · [Telegram](https://t.me/AVP_Dev)
 
-<p align="center">
-  <a href="https://pravia.dev"><img src="https://img.shields.io/badge/Pravia-AI--Сотрудник%20SaaS-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="Pravia" /></a>
-  <a href="https://github.com/AVP-Dev/pair-mailbox"><img src="https://img.shields.io/badge/pair--mailbox-Autonomous%20AI%20Pair-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="pair-mailbox" /></a>
-  <a href="https://github.com/AVP-Dev/nyx-vox"><img src="https://img.shields.io/badge/NYX%20Vox-Native%20Voice%20AI-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="NYX Vox" /></a>
-  <a href="https://avpdev.com/"><img src="https://img.shields.io/badge/Website-avpdev.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/avp-dev"><img src="https://img.shields.io/badge/LinkedIn-avp--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/AVP_Dev"><img src="https://img.shields.io/badge/Telegram-@AVP__Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://avpdev.com/ru/blog/"><img src="https://img.shields.io/badge/Блог-Статьи-18181B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Блог" /></a>
-</p>
+[English](./README.md) · **Русская версия**
 
-<p align="center">
-  <em>AI Solutions Architect & Systems Engineer: проектирование устойчивых мультиагентных систем, автономной парной разработки (MCP), высоконагруженных векторных RAG-пайплайнов и детерминированной архитектуры разработки с ИИ.</em>
-</p>
+</div>
 
----
+## Обо мне
 
-<h2 align="center">🎯 Обо мне и инженерном подходе</h2>
+Проектирую и разрабатываю программные продукты и бизнес-системы — от требований и архитектуры до реализации, тестирования и развёртывания.
 
-<p align="center">
-Я соединяю архитектурное системное проектирование, практический AI-инжиниринг и низкоуровневую системную разработку. Как создатель и архитектор B2B-платформы <strong><a href="https://pravia.dev">Pravia</a></strong> (автономный AI-сотрудник на корпоративных знаниях), создатель и архитектор фреймворка автономного парного программирования <strong><a href="https://github.com/AVP-Dev/pair-mailbox">pair-mailbox</a></strong> (детерминированный протокол взаимодействия двух CLI-агентов через MCP), создатель десктопного Voice AI интерфейса <strong><a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></strong> (нативный Rust и Tauri для macOS/Windows), автор стандарта <strong><a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></strong> и автор инженерного блога на <strong><a href="https://avpdev.com/ru/blog/">avpdev.com/blog</a></strong>, я превращаю хаотичный вайб-кодинг в промышленную, предсказуемую и безопасную разработку enterprise-уровня.
-</p>
+Основные направления: Full-Stack и Backend, SaaS, API, интеграции, инфраструктура и автоматизация. Отдельное направление — системы на базе ИИ и инструменты разработки с открытым исходным кодом.
 
----
+## Проекты
 
-<h2 align="center">🧠 Инженерная философия: Zero Vibe Coding</h2>
+| Проект | Описание |
+| --- | --- |
+| [Pravia](https://pravia.dev/) | B2B SaaS-платформа ассистентов на основе корпоративных знаний, RAG и интеграций. |
+| [pair-mailbox](https://github.com/AVP-Dev/pair-mailbox) | Открытый MCP-протокол парной работы агентов с контролем единственного писателя и проверкой целостности патчей. Python, без внешних зависимостей. |
+| [NYX Vox](https://github.com/AVP-Dev/nyx-vox) | Десктопное приложение для голосового ввода, распознавания и форматирования текста на Rust и Tauri. |
+| [agent-starter-kit](https://github.com/AVP-Dev/agent-starter-kit) | Инженерные стандарты, архитектурные рекомендации и автоматизированные проверки для разработки с ИИ. |
+| [AVPdev](https://avpdev.com/ru/) | Персональное портфолио, услуги разработки ПО и технический блог на Astro, TypeScript и Bun. |
 
-<p align="center">
-  <strong><em>«Управлять идеями и системными инвариантами, а не нянчиться с синтаксисом кода».</em></strong>
-</p>
+### В активной разработке
 
-<p align="center">
-Система строится вокруг неизменяемого человеческого каркаса (Skeleton: схема данных, контекст сессий, шина событий), управляющего изолированными сменными модулями (Disposable Modules), генерируемыми ИИ под строгим контролем тестов.
-</p>
+**[TALOS](https://github.com/AVP-Dev/talos) — Early Beta**
 
-<table align="center">
-<tr>
-<td>
-<pre>┌────────────────────────────────────────────────────────┐
-│                  АРХИТЕКТОР (ЧЕЛОВЕК)                  │
-│       Инварианты │ Схемы данных │ Единый SSOT          │
-└───────────────────────────┬────────────────────────────┘
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│                   КАРКАС (SKELETON)                    │
-│   Auth Context │ Event Bus │ pgvector / HNSW │ Очереди │
-└───────────────┬────────────────────────┬───────────────┘
-                │                        │
-                ▼                        ▼
-      [ Сменный модуль A ]      [ Сменный модуль B ]
-        100% сгенерирован         100% сгенерирован</pre>
-</td>
-</tr>
-</table>
+Локальный оркестратор CLI-агентов разработки на Rust с терминальным интерфейсом, разделением ролей, проверкой изменений и интеграцией с Git.
 
----
+*Ранняя бета: возможны ошибки, нестабильное поведение и изменения функциональности. Пока не рекомендуется для критически важных рабочих процессов.*
 
-<h2 align="center">🛠️ Стек технологий и компетенции</h2>
+## Технологии
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center">Область</th>
-      <th align="center">Инструменты и технологии</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>ИИ, RAG и Агенты</strong></td>
-      <td>Gemini Antigravity, Claude Code, OpenAI Codex, pgvector, HNSW, ONNX Runtime, Multi-Agent Orchestration, Model Context Protocol (MCP), Tool Calling</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Автономная разработка & Парное ИИ</strong></td>
-      <td>pair-mailbox (Zero-dependency Python 3.8+, tmux IPC, fcntl.flock), Single Writer Invariant, Cryptographically Sealed Patches, Verification Gates</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Системная разработка и Desktop</strong></td>
-      <td>Rust 2021, Tauri 2, cpal (Audio DSP), нативные API macOS & Windows, Groq Whisper / Deepgram Nova-2 / Gemini STT</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Бэкенд и распределенные системы</strong></td>
-      <td>Bun 1.3+, Node.js 26 LTS, Go 1.27+, Python 3.14 (FastAPI), BullMQ, Redis, PostgreSQL, Drizzle ORM</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Фронтенд-системы</strong></td>
-      <td>Next.js (App Router), React, TypeScript 5.8+, Astro 7, Tailwind CSS</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>DevOps и PaaS</strong></td>
-      <td>Docker, Coolify, Dokploy (Self-Hosted PaaS), GitHub Actions (CI/CD), Linux (Bash, Nginx)</td>
-    </tr>
-  </tbody>
-</table>
+| Направление | Стек |
+| --- | --- |
+| Языки | TypeScript, JavaScript, Python, Go, Rust |
+| Backend и API | Node.js, Bun, FastAPI, REST, OpenAPI, SSE, WebSockets |
+| Frontend | Next.js, React, Astro, Tailwind CSS |
+| Данные и очереди | PostgreSQL, Redis, SQLite, Drizzle ORM, BullMQ |
+| Инфраструктура | Docker, Linux, Nginx, GitHub Actions, Coolify, Dokploy |
+| Desktop | Rust, Tauri, cpal |
+| ИИ и автоматизация | LLM, RAG, pgvector, HNSW, ONNX Runtime, MCP, оркестрация агентов |
+| Тестирование | Vitest, Playwright, k6 |
 
----
+## Инженерный подход
 
-<h2 align="center">🚀 Ключевые проекты и продукты</h2>
+Чёткие контракты, системные инварианты, обоснованный выбор технологий, безопасность и автоматизированные проверки.
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🏢 <a href="https://pravia.dev">Pravia (pravia.dev)</a></h3>
-      <p>Production B2B SaaS-платформа AI-сотрудников на базе корпоративного RAG. Моментальные консультации клиентов, квалификация лидов и передача данных в CRM/Telegram.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SaaS-Production-FF8C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Enterprise-RAG-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/100%2B-Языков-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 <a href="https://github.com/AVP-Dev/pair-mailbox">pair-mailbox</a></h3>
-      <p>Детерминированный протокол автономного парного программирования для двух независимых CLI-агентов (Antigravity, Claude Code, OpenCode, Codex). Серверный инвариант единственного писателя, запечатанные SHA-256 патчи критика, tmux IPC и zero-dependencies Python 3 stdlib.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Architecture-Single_Writer_Invariant-FF8C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dependencies-Zero_External-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/MCP-Protocol-8A2BE2?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🎙️ <a href="https://github.com/AVP-Dev/nyx-vox">NYX Vox</a></h3>
-      <p>Нативный voice-to-text интерфейс с задержкой &lt;500ms для macOS и Windows на Rust & Tauri 2. Точное AI-форматирование без галлюцинаций, умный VAD и моментальная вставка в активное приложение.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Rust-Tauri%202-DEA584?style=flat-square&logo=rust" />
-        <img src="https://img.shields.io/badge/macOS%20%7C%20Windows-black?style=flat-square&logo=apple" />
-        <img src="https://img.shields.io/badge/STT-%3C500ms-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>📦 <a href="https://github.com/AVP-Dev/agent-starter-kit">agent-starter-kit</a></h3>
-      <p>Инженерный стандарт разработки с ИИ: архитектура Skeleton + Pluggable Modules, Automated Verification Gates и протокол автоматического онбординга для Antigravity, Claude Code и Copilot.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20Engineering-Standards-FF8C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Verification-Gates-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center" valign="top" colspan="2">
-      <h3>🌐 <a href="https://avpdev.com">avpdev.com</a></h3>
-      <p>Высокопроизводительный личный сайт и технический блог на Astro 7, TypeScript и Bun. Гибридный SSR/SSG рендеринг, безопасность и Docker-first архитектура.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Astro%207-Bun-orange?style=flat-square&logo=astro" />
-        <img src="https://img.shields.io/badge/TypeScript-Docker-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+В разработке с ИИ применяю подход **Zero Vibe Coding**: архитектурный каркас (Skeleton), определённые границы ответственности и изолированные сменные модули (Disposable Modules). Архитектурные решения и ответственность остаются за инженером.
 
----
+Подробнее — в [техническом блоге](https://avpdev.com/ru/blog/).
 
-<h2 align="center">✍️ Инженерный блог и мысли</h2>
-
-<p align="center">
-  Пишу о детерминированных AI-архитектурах, мультиагентной оркестрации и переходе от слепого написания кода к системному контролю инвариантов.<br />
-  👉 <strong><a href="https://avpdev.com/ru/blog/">Все технические статьи и исследования в блоге avpdev.com &rarr;</a></strong>
-</p>
-
----
-
-<h2 align="center">⚡ Живой интерактивный CLI-терминал</h2>
-
-<p align="center">
-  <em>Запустите в вашем терминале для получения живой телеметрии, цветного ANSI-баннера и статуса:</em>
-</p>
-
-<p align="center"><strong>🖥️ Интерактивный кибер-терминал и ANSI-телеметрия:</strong></p>
+## Terminal API
 
 ```bash
+# ANSI-баннер и телеметрия
 curl -s "https://avpdev.com/api/connect?banner=1"
-```
-
-<p align="center"><strong>🟢 Статус доступности архитектора в реальном времени:</strong></p>
-
-```bash
+# Статус доступности
 curl -s "https://avpdev.com/api/connect?raw=status"
-```
-
-<p align="center"><strong>🤝 Прямой канал связи и сотрудничество:</strong></p>
-
-```bash
+# Сотрудничество
 curl -s "https://avpdev.com/api/connect?action=hire"
 ```
 
 ---
 
-<p align="center">
-  <a href="https://avpdev.com/"><strong>Aliaksei Patskevich (AVPDev)</strong></a><br />
-  <small>AI SOLUTIONS ARCHITECT &bull; <a href="https://linkedin.com/in/avp-dev">LINKEDIN</a> &bull; <a href="https://t.me/AVP_Dev">TELEGRAM</a></small>
-</p>
+<div align="center">
+
+[avpdev.com](https://avpdev.com/ru/) · [contact@avpdev.com](mailto:contact@avpdev.com)
 
 </div>
